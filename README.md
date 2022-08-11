@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Jinah95's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinah95)](https://github.com/jinah95/github-readme-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinah95)](https://github.com/jinah95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinah95&hide=jupyter%20notebook)](https://github.com/jinah95/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinah95&count_bg=%23C1E7A5&title_bg=%239FCCFF&icon=github.svg&icon_color=%23FFF9F9&title=jinah95%27s+github&edge_flat=false)](https://hits.seeyoufarm.com)
 
