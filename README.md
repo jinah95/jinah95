@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&text=I'm_Frontend_Engineer_Jinah👋&fontColor=d6ace6&fontSize=40&animation=twinkling&color=gradient&height=210)
+![header](https://capsule-render.vercel.app/api?type=Slice&text=I'm%20Frontend%20Engineer%20Jinah👋&fontColor=d6ace6&fontSize=40&animation=twinkling&color=gradient&height=210)
 ### Hi there 👋
 
 <!--
