@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 
 ### 🖥 SKILLS & TOOLS 
 ### [FRONT]
-#### - HTML5, CSS, JavaScript(ES6), TypeScript
-#### - React.js
-#### - Next.js
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FFFF33?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-336699?style=flat-square&logo=typescript&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Styled Components-CC99CC?style=flat-square&logo=styled components&logoColor=white"/> <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
+
 
 ### [Collaboration & Tools]
-#### - VS Code
-#### - Git (Github, GitLab)
-#### - Trello
-#### - Figma
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-FF6600?style=flat-square&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-FF3366?style=flat-square&logo=notion&logoColor=white"/>
 
 <hr />
 
